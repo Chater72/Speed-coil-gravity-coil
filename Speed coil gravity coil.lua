@@ -22,7 +22,7 @@ UICorner.CornerRadius = UDim.new(0, 10)
 UICorner.Parent = MainFrame
 
 TitleLabel.Parent = MainFrame
-TitleLabel.Text = "Tool giver"
+TitleLabel.Text = "Boost tools"
 TitleLabel.Font = Enum.Font.SourceSansBold
 TitleLabel.TextSize = 20
 TitleLabel.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
@@ -75,7 +75,7 @@ FooterLabel.Parent = ContentFrame
 FooterLabel.Size = UDim2.new(1, 0, 0, 20)
 FooterLabel.Position = UDim2.new(0, 0, 0.9, 0)
 FooterLabel.BackgroundTransparency = 1
-FooterLabel.Text = "by: t.me/tolik_scripter"
+FooterLabel.Text = "by: t.me/tolik_scripter1"
 FooterLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 FooterLabel.Font = Enum.Font.Gotham
 FooterLabel.TextSize = 14
